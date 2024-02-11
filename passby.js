@@ -25,4 +25,3 @@ console.log(student1, student2);
 
 makeMovie(student1, student2);
 console.log(student1, student2);
-// ==
